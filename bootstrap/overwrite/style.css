@@ -4,10 +4,11 @@
 }
 
 /* navbar */
-.teste{
-  background-color: #9aadd2 !important;
-  
-  
+
+.background{
+  background:#0B1322;
+  background-size: cover;
+      background-position: center;
 }
 .nav-link-side:hover ,  .nav-link-side:focus{
   background-color: #0B1322 !important;
